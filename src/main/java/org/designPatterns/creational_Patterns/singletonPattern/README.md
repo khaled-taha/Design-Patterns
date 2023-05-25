@@ -1,4 +1,4 @@
-# The concepts when choosing a singleton are that it guarantees only one instance is going to be created.
+# The concepts when choosing a singleton is that it guarantees only one instance is going to be created.
 
 It also guarantees the control of a resource. 
 
