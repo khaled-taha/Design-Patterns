@@ -1,4 +1,4 @@
-# The concepts when choosing a factory are that:
+# The concepts when choosing a factory is that:
 
 it doesn't expose instantiation logic.
 It's used to create objects without specifying their exact classes.
