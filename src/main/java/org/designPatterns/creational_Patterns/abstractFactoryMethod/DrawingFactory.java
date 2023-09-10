@@ -1,7 +1,7 @@
-package org.designPatterns.creational_Patterns.abstractFactoryMethod;
+package org.designPatterns.creational_patterns.abstractFactoryMethod;
 
-import org.designPatterns.creational_Patterns.abstractFactoryMethod.colorFactory.Color;
-import org.designPatterns.creational_Patterns.abstractFactoryMethod.shapeFactory.Shape;
+import org.designPatterns.creational_patterns.abstractFactoryMethod.colorFactory.Color;
+import org.designPatterns.creational_patterns.abstractFactoryMethod.shapeFactory.Shape;
 
 public interface DrawingFactory {
 

@@ -1,4 +1,4 @@
-package org.designPatterns.creational_Patterns.builderPattern;
+package org.designPatterns.creational_patterns.builderPattern;
 
 public class Test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.designPatterns.creational_Patterns.abstractFactoryMethod.shapeFactory;
+package org.designPatterns.creational_patterns.abstractFactoryMethod.shapeFactory;
 
 public class Rectangle implements Shape {
     @Override

@@ -1,4 +1,4 @@
-package org.designPatterns.creational_Patterns.abstractFactoryMethod.colorFactory;
+package org.designPatterns.creational_patterns.abstractFactoryMethod.colorFactory;
 
 public class Red implements Color {
     @Override

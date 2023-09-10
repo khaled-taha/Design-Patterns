@@ -1,7 +1,7 @@
-package org.designPatterns.creational_Patterns.abstractFactoryMethod;
+package org.designPatterns.creational_patterns.abstractFactoryMethod;
 
-import org.designPatterns.creational_Patterns.abstractFactoryMethod.colorFactory.ColorFactory;
-import org.designPatterns.creational_Patterns.abstractFactoryMethod.shapeFactory.ShapeFactory;
+import org.designPatterns.creational_patterns.abstractFactoryMethod.colorFactory.ColorFactory;
+import org.designPatterns.creational_patterns.abstractFactoryMethod.shapeFactory.ShapeFactory;
 
 /**
  * Usage of Abstract Factory Pattern

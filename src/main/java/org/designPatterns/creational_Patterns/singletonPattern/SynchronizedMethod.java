@@ -1,4 +1,4 @@
-package org.designPatterns.creational_Patterns.singletonPattern;
+package org.designPatterns.creational_patterns.singletonPattern;
 
 /**
  * Synchronized approach:

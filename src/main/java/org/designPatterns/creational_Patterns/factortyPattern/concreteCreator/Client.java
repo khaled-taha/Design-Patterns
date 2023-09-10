@@ -1,7 +1,4 @@
-package org.designPatterns.creational_Patterns.factortyPattern.concreteCreator;
-
-import org.designPatterns.creational_Patterns.factortyPattern.abstractCreator.creator.RectangleFactory;
-import org.designPatterns.creational_Patterns.factortyPattern.abstractCreator.creator.SquareFactory;
+package org.designPatterns.creational_patterns.factortyPattern.concreteCreator;
 
 public class Client {
     public static void main(String[] args) {

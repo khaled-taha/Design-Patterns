@@ -1,4 +1,4 @@
-package org.designPatterns.creational_Patterns.factortyPattern.staticMethodCreator;
+package org.designPatterns.creational_patterns.factortyPattern.staticMethodCreator;
 
 public class Square implements Shape {
     @Override

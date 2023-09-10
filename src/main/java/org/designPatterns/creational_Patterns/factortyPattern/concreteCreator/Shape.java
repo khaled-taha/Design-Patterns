@@ -1,4 +1,4 @@
-package org.designPatterns.creational_Patterns.factortyPattern.concreteCreator;
+package org.designPatterns.creational_patterns.factortyPattern.concreteCreator;
 
 public interface Shape {
     void draw();

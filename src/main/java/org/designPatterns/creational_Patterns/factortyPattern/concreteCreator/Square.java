@@ -1,4 +1,4 @@
-package org.designPatterns.creational_Patterns.factortyPattern.concreteCreator;
+package org.designPatterns.creational_patterns.factortyPattern.concreteCreator;
 
 public class Square implements Shape {
     @Override

@@ -1,4 +1,4 @@
-package org.designPatterns.creational_Patterns.protypePattern;
+package org.designPatterns.creational_patterns.protypePattern;
 
 public class Circle extends Shape{
     private double radius;

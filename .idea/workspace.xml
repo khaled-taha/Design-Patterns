@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1547b8f5-959b-473b-bf1f-a7613972bea1" name="Changes" comment="" />
+    <list default="true" id="1547b8f5-959b-473b-bf1f-a7613972bea1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,25 +44,28 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "E:/Courses/Reference/Front End/فورم المسابقة/Design-Patterns/src/main/java/org/designPatterns/creational_Patterns/singletonPattern"
+    "last_opened_file_path": "E:/Courses/Reference/Design Pattern/Design-Patterns/src/main/java/org/designPatterns/behavioral_patterns/strategy_pattern/quackBehavior"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Courses\Reference\Design Pattern\Design-Patterns\src\main\java\org\designPatterns\behavioral_patterns\strategy_pattern\quackBehavior" />
       <recent name="E:\Courses\Reference\Front End\فورم المسابقة\Design-Patterns\src\main\java\org\designPatterns\creational_Patterns\singletonPattern" />
       <recent name="E:\Courses\Reference\Front End\فورم المسابقة\Design-Patterns\src\main\java\org\designPatterns\creational_Patterns\abstractFactoryMethod" />
       <recent name="E:\Courses\Reference\Front End\فورم المسابقة\Design-Patterns\src\main\java\org\designPatterns\creational_Patterns\factortyPattern" />
       <recent name="E:\Courses\Reference\Front End\فورم المسابقة\Design-Patterns\src\main\java\org\designPatterns\creational_Patterns\abstractFactoryMethod\colorFactory" />
-      <recent name="E:\Courses\Reference\Front End\فورم المسابقة\Design-Patterns\src\main\java\org\designPatterns\creational_Patterns\abstractFactoryMethod\shapFactory" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.designPatterns.behavioral_patterns.strategy_pattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.designPatterns.creational_Patterns.protypePattern.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.designPatterns.creational_Patterns.factortyPattern.abstractCreator.Client" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.designPatterns.behavioral_patterns.strategy_pattern.Main" />
       <module name="Design-Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.designPatterns.creational_Patterns.factortyPattern.abstractCreator.*" />
+          <option name="PATTERN" value="org.designPatterns.behavioral_patterns.strategy_pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.designPatterns.creational_Patterns.abstractFactoryMethod.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.designPatterns.creational_Patterns.abstractFactoryMethod.Client" />
+    <configuration name="org.designPatterns.creational_patterns.abstractFactoryMethod.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.designPatterns.creational_patterns.abstractFactoryMethod.Client" />
       <module name="Design-Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.designPatterns.creational_Patterns.abstractFactoryMethod.*" />
+          <option name="PATTERN" value="org.designPatterns.creational_patterns.abstractFactoryMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.designPatterns.creational_Patterns.factortyPattern.concreteCreator.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.designPatterns.creational_Patterns.factortyPattern.concreteCreator.Client" />
+    <configuration name="org.designPatterns.creational_patterns.factortyPattern.concreteCreator.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.designPatterns.creational_patterns.factortyPattern.concreteCreator.Client" />
       <module name="Design-Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.designPatterns.creational_Patterns.factortyPattern.concreteCreator.*" />
+          <option name="PATTERN" value="org.designPatterns.creational_patterns.factortyPattern.concreteCreator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.designPatterns.creational_Patterns.factortyPattern.staticMethodCreator.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.designPatterns.creational_Patterns.factortyPattern.staticMethodCreator.Client" />
+    <configuration name="org.designPatterns.creational_patterns.factortyPattern.staticMethodCreator.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.designPatterns.creational_patterns.factortyPattern.staticMethodCreator.Client" />
       <module name="Design-Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.designPatterns.creational_Patterns.factortyPattern.staticMethodCreator.*" />
+          <option name="PATTERN" value="org.designPatterns.creational_patterns.factortyPattern.staticMethodCreator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.designPatterns.creational_Patterns.protypePattern.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.designPatterns.creational_Patterns.protypePattern.Client" />
+    <configuration name="org.designPatterns.creational_patterns.protypePattern.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.designPatterns.creational_patterns.protypePattern.Client" />
       <module name="Design-Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.designPatterns.creational_Patterns.protypePattern.*" />
+          <option name="PATTERN" value="org.designPatterns.creational_patterns.protypePattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.designPatterns.creational_Patterns.protypePattern.Client" />
-        <item itemvalue="Application.org.designPatterns.creational_Patterns.abstractFactoryMethod.Client" />
-        <item itemvalue="Application.org.designPatterns.creational_Patterns.factortyPattern.staticMethodCreator.Client" />
-        <item itemvalue="Application.org.designPatterns.creational_Patterns.factortyPattern.concreteCreator.Client" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.org.designPatterns.creational_patterns.abstractFactoryMethod.Client" />
+        <item itemvalue="Application.org.designPatterns.creational_patterns.protypePattern.Client" />
+        <item itemvalue="Application.org.designPatterns.creational_patterns.factortyPattern.staticMethodCreator.Client" />
+        <item itemvalue="Application.org.designPatterns.creational_patterns.factortyPattern.concreteCreator.Client" />
       </list>
     </recent_temporary>
   </component>

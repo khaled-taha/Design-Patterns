@@ -1,7 +1,7 @@
-package org.designPatterns.creational_Patterns.abstractFactoryMethod.shapeFactory;
+package org.designPatterns.creational_patterns.abstractFactoryMethod.shapeFactory;
 
 
-import org.designPatterns.creational_Patterns.abstractFactoryMethod.DrawingFactory;
+import org.designPatterns.creational_patterns.abstractFactoryMethod.DrawingFactory;
 
 
 

@@ -1,4 +1,4 @@
-package org.designPatterns.creational_Patterns.builderPattern;
+package org.designPatterns.creational_patterns.builderPattern;
 
 // Product class
 public class Car {

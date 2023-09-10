@@ -1,7 +1,7 @@
-package org.designPatterns.creational_Patterns.abstractFactoryMethod.colorFactory;
+package org.designPatterns.creational_patterns.abstractFactoryMethod.colorFactory;
 
 
-import org.designPatterns.creational_Patterns.abstractFactoryMethod.DrawingFactory;
+import org.designPatterns.creational_patterns.abstractFactoryMethod.DrawingFactory;
 
 public class ColorFactory implements DrawingFactory {
 

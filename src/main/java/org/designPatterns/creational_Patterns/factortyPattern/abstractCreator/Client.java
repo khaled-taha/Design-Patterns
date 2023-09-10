@@ -1,7 +1,7 @@
-package org.designPatterns.creational_Patterns.factortyPattern.abstractCreator;
+package org.designPatterns.creational_patterns.factortyPattern.abstractCreator;
 
-import org.designPatterns.creational_Patterns.factortyPattern.abstractCreator.creator.RectangleFactory;
-import org.designPatterns.creational_Patterns.factortyPattern.abstractCreator.creator.SquareFactory;
+import org.designPatterns.creational_patterns.factortyPattern.abstractCreator.creator.RectangleFactory;
+import org.designPatterns.creational_patterns.factortyPattern.abstractCreator.creator.SquareFactory;
 
 public class Client {
     public static void main(String[] args) {

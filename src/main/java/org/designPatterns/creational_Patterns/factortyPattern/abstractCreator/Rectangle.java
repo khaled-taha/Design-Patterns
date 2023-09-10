@@ -1,4 +1,4 @@
-package org.designPatterns.creational_Patterns.factortyPattern.abstractCreator;
+package org.designPatterns.creational_patterns.factortyPattern.abstractCreator;
 
 public class Rectangle implements Shape{
     @Override

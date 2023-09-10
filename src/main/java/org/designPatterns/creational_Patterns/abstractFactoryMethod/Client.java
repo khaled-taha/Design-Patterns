@@ -1,16 +1,9 @@
-package org.designPatterns.creational_Patterns.abstractFactoryMethod;
-
-import org.designPatterns.creational_Patterns.abstractFactoryMethod.colorFactory.Color;
+package org.designPatterns.creational_patterns.abstractFactoryMethod;
 
 
 public class Client {
 
     public static void main(String[] args) {
-        DrawingFactory colorFactory = DrawingProvider.getFactory("color");
-        Color red = colorFactory.getColor("red");
-        red.fill();
-
-
     }
 
 
